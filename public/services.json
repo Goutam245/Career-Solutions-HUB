@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/JzMgmmZ/pexels-olly-733872.jpg",
+      "serviceName": "Personal Therapy",
+      "category": "Mental Health",
+      "pricing": "$50/hr",
+      "counselorName": "Dr. Sarah Johnson",
+      "details": "/services/personal-therapy"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/mSvcCZ7/1.webp",
+      "serviceName": "Career Counseling",
+      "category": "Career Guidance",
+      "pricing": "$70/session",
+      "counselorName": "Mr. John Doe",
+      "details": "/services/career-counseling"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/19zNhJF/pexels-andersonguerra-1197132.jpg",
+      "serviceName": "Resume Review",
+      "category": "CV Management",
+      "pricing": "$40/session",
+      "counselorName": "Ms. Emily Clark",
+      "details": "/services/fitness-coaching"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/4gyj0WB/pexels-latronico-709188.jpg",
+      "serviceName": "Financial Planning",
+      "category": "Finance",
+      "pricing": "$100/hr",
+      "counselorName": "Mr. Robert Brown",
+      "details": "/services/financial-planning"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/h8ktjjy/pexels-stefanstefancik-91227.jpg",
+      "serviceName": "Skill Counseling",
+      "category": "Skill Development",
+      "pricing": "$60/session",
+      "counselorName": "Dr. Alex Green",
+      "details": "/services/diet-counseling"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/dbfztnZ/pexels-olly-846741.jpg",
+      "serviceName": "Stress Management",
+      "category": "Mental Health",
+      "pricing": "$80/session",
+      "counselorName": "Dr. Michael White",
+      "details": "/services/stress-management"
+    }
+  ]
+  
