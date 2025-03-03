@@ -28,15 +28,13 @@ const ResumeReview = () => {
             <i>Ms. Emily Clark</i>
           </p>
           <p className="py-6">
-          A professional resume is more than just a document; it is a gateway to your career aspirations. Resume review services refine your CV to effectively showcase your skills, experience, and achievements in alignment with industry standards.
+          A well-crafted resume is your key to career success. Professional resume review services ensure your CV highlights your skills, experience, and achievements in line with industry standards.
 
-Ms. Emily Clark is a seasoned professional specializing in crafting impactful resumes that leave lasting impressions on hiring managers. With a keen eye for detail and a deep understanding of recruitment processes, she helps clients stand out in competitive job markets.
+Mr. David Reynolds is an expert in resume optimization, helping job seekers create compelling, ATS-friendly resumes that stand out. With deep recruitment insights, he refines content for clarity, structure, and impact—whether for entry-level positions or senior roles.
 
-Ms. Clark's resume review services focus on clarity, structure, and relevance. She highlights strengths, addresses gaps, and ensures the document reflects the client's unique value proposition. Whether you're applying for your first job or aiming for a senior role, she provides targeted feedback to enhance your CV.
+His tailored approach ensures your strengths shine, addressing gaps and enhancing relevance. Many clients have secured interviews and advanced their careers with his expert guidance.
 
-Her expertise extends to optimizing resumes for Applicant Tracking Systems (ATS), increasing the chances of passing initial screenings. By leveraging her guidance, clients have successfully secured interviews and advanced their careers.
-
-Ms. Emily Clark’s dedication to empowering clients through polished resumes has made her a trusted advisor in CV management. Partnering with her is the first step toward achieving your professional dreams.
+Partner with Mr. Reynolds to elevate your resume and take the next step toward your professional goals.
           </p>
           <button
             className="mt-6 btn btn-primary flex items-center gap-2"

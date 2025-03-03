@@ -48,12 +48,7 @@ const Services = () => {
 
             </button>
 
-            {/* <a
-              href={service.details}
-              className="btn btn-primary mt-4 inline-block"
-            >
-              Learn More
-            </a> */}
+           
           </div>
         ))}
       </div>

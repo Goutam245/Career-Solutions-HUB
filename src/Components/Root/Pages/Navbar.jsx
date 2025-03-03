@@ -6,15 +6,19 @@ import "react-toastify/dist/ReactToastify.css";
 const Navbar = () => {
   const {user,logOut} = useContext(AuthContext)
     const links = <>
-    <li><NavLink to="/">Home</NavLink> </li>
-    <li><NavLink to="/services">Services</NavLink></li>
+  
+   <li><NavLink to="/">Home</NavLink> </li>
+   <li><NavLink to="/profile">Profile</NavLink></li>
     <li><NavLink to="/about">About Us</NavLink></li>
-    <li><NavLink to="/profile">Profile</NavLink></li>
+    <li><NavLink to="/services">Services</NavLink></li>
     <li><NavLink to="/appointment">Appointment</NavLink></li>
+   
+   
+    
     {/* <li><NavLink to="/login">Log In</NavLink></li> */}
     </>
     return (
-        <div className="navbar bg-base-100 md:w-11/12 mx-auto">
+        <div className="navbar bg-blue-600 text-white md:w-11/12 mx-auto">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -38,7 +42,7 @@ const Navbar = () => {
       </ul>
     </div>
     <div><img className='w-16' src="https://i.ibb.co.com/BHRM79GY/download.png" alt="" /> </div>
-    <a className="btn btn-ghost text-xl font-mono ">CareerHUB</a>
+    <a className="btn btn-ghost text-xl font-mono ">CareerTips</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-3">

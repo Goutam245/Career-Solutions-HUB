@@ -25,7 +25,11 @@ const About = () => {
         <div className="flex flex-col lg:flex-row items-center">
           {/* Image Section */}
           <div className="lg:w-1/2 mb-8 mr-8 lg:mb-0">
-           
+            <img
+              src="https://i.ibb.co.com/cc02dcX4/3966601.jpg"
+              alt="About Us"
+              className="rounded-lg shadow-lg"
+            />
            
           </div>
 
