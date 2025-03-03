@@ -31,18 +31,16 @@ const FinancialPlanning = () => {
             <i>Finance</i>
           </p>
           <p className="py-3 font-mono text-2xl font-semibold">
-            <i>Mr. Robert Brown</i>
+            <i>Mr. David Carter</i>
           </p>
           <p className="py-6">
-          Financial planning is a cornerstone of personal and professional stability. It equips individuals with the tools to manage their income, investments, and expenditures effectively, ensuring a secure and prosperous future.
+          Financial success isn’t just about numbers—it’s about building a future where you feel confident, secure, and in control. Whether you're planning for retirement, managing investments, or working toward financial freedom, the right strategy makes all the difference.
 
-Mr. Robert Brown is a renowned financial planner with expertise in creating personalized strategies for wealth management, retirement planning, and debt reduction. His client-centric approach ensures solutions tailored to individual goals and lifestyles.
+Meet David Carter, a seasoned financial expert known for his ability to turn financial uncertainty into opportunity. With a personalized, results-driven approach, he creates tailored wealth management, retirement, and debt-reduction strategies designed to fit your unique goals and lifestyle.
 
-Mr. Brown’s sessions go beyond numbers; he educates clients on financial literacy, empowering them to make informed decisions. His meticulous analysis of financial situations provides clarity and confidence in managing complex financial challenges.
+David’s expertise goes beyond traditional financial planning—he believes in empowering his clients. Through clear, insightful guidance, he breaks down complex financial concepts into actionable steps, helping you make informed decisions with confidence. His meticulous analysis ensures you have a clear roadmap to success, no matter your financial challenges.
 
-From planning for major life events to achieving long-term stability, Mr. Brown offers actionable advice that creates measurable results. His experience in diverse financial landscapes ensures that clients receive holistic and practical guidance.
-
-Choosing Mr. Robert Brown for financial planning means gaining a reliable partner who prioritizes your success and well-being. His dedication to his clients’ financial health makes him a standout in the field.
+From milestone moments like buying a home or starting a business to long-term stability and wealth-building, David provides the tools and strategies needed to create lasting financial security. His deep industry knowledge and client-first approach make him the trusted choice for those who want not just financial planning, but financial freedom.
           </p>
           <button
             className="mt-6 btn btn-primary flex items-center gap-2"
