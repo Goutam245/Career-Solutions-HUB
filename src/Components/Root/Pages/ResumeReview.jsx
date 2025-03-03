@@ -25,7 +25,7 @@ const ResumeReview = () => {
             <i>CV Management</i>
           </p>
           <p className="py-3 font-mono text-2xl font-semibold">
-            <i>Ms. Emily Clark</i>
+            <i>Mr. David Reynolds</i>
           </p>
           <p className="py-6">
           A well-crafted resume is your key to career success. Professional resume review services ensure your CV highlights your skills, experience, and achievements in line with industry standards.

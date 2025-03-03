@@ -24,14 +24,14 @@ const Therapy = () => {
             src="https://i.ibb.co.com/JzMgmmZ/pexels-olly-733872.jpg"
             className="max-w-sm rounded-lg shadow-2xl" />
           <div>
-            <h1 className="text-5xl font-bold">Personal Therapy</h1>
-            <p className="py-3 font-serif font-semibold"> <i>Mental Health</i></p>
-            <p className="py-3 font-mono text-2xl font-semibold"> <i>Dr. Sarah Johnson</i></p>
+            <h1 className="text-5xl font-bold">Personal Teatment</h1>
+            <p className="py-3 font-serif font-semibold"> <i>Mental Health Cheack</i></p>
+            <p className="py-3 font-mono text-2xl font-semibold"> <i>Dr. Emily Carter</i></p>
             <p className="py-6">
-            Mental health plays a crucial role in shaping one’s career success and overall well-being. A healthy mind fosters creativity, focus, and resilience, which are essential for overcoming professional challenges and achieving goals. Neglecting mental health can lead to burnout, reduced productivity, and career stagnation. Prioritizing mental health helps individuals make informed decisions, maintain work-life balance, and unlock their full potential. In today’s fast-paced professional world, addressing mental health is not just important—it is fundamental for a thriving and sustainable career.
+            Transform Your Career and Well-Being with Dr. Emily Carter
+Dr. Emily Carter is the perfect guide for those seeking both career success and mental well-being. With a unique blend of expertise in clinical psychology and career counseling, she empowers individuals to overcome challenges, build confidence, and unlock their true potential. Her compassionate, results-driven approach helps clients navigate stress, strengthen resilience, and make informed career decisions.
 
-Why Dr. Sarah Johnson is Perfect for Therapy and Career Counseling
-Dr. Sarah Johnson combines her expertise in clinical psychology with years of experience in career counseling, making her an ideal therapist for those seeking clarity and guidance in their professional lives. Her compassionate approach helps clients navigate stress, build confidence, and identify their strengths to excel in their chosen fields. Dr. Johnson’s personalized strategies and evidence-based techniques ensure tailored support for each individual. Her deep understanding of workplace dynamics and mental health challenges equips her to address complex career dilemmas effectively. Choosing Dr. Johnson means investing in both personal growth and professional success.
+Dr. Carter’s personalized strategies and evidence-based techniques ensure tailored support, whether you’re battling burnout, facing workplace dilemmas, or striving for professional growth. With a deep understanding of workplace dynamics and mental health, she provides the clarity and tools needed for a thriving, fulfilling career.
             </p>
             <button
           className="mt-6 btn btn-primary flex items-center gap-2"

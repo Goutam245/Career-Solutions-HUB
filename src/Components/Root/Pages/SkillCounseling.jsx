@@ -31,19 +31,24 @@ const SkillCounseling = () => {
             <i>Skill Development</i>
           </p>
           <p className="py-3 font-mono text-2xl font-semibold">
-            <i>Dr. Alex Green</i>
+            <i>Dr.  Nathan Carter </i>
           </p>
           <p className="py-6">
-          In today’s competitive world, skill development is key to staying relevant and achieving professional growth. Skill counseling helps individuals identify, nurture, and enhance their abilities to thrive in dynamic job markets.
+          Unlock Your Potential with Expert Skill Counseling
+In today’s fast-paced world, staying ahead means staying skilled. Whether you're striving for career growth or transitioning into a new field, skill development is the key to success.
 
-Dr. Alex Green is a leading expert in skill counseling, with a passion for helping clients unlock their full potential. His approach focuses on understanding personal strengths and aligning them with market demands to build a strong professional profile.
+Meet Dr. Nathan Carter – Your Guide to Professional Excellence
+Dr. Nathan Carter, a leading expert in skill development and career transformation, helps individuals identify, refine, and amplify their abilities to thrive in competitive job markets. His unique approach bridges the gap between personal strengths and industry demands, ensuring a future-proof professional profile.
 
-Dr. Green’s sessions are highly interactive, offering practical exercises and actionable insights. He assists clients in mastering new technologies, improving soft skills, and exploring untapped talents. His guidance fosters continuous learning and adaptability.
+Why Choose Dr. Carter’s Coaching?
+✅ Engaging & Interactive Sessions  Experience hands-on learning tailored to real-world applications.
+✅ Personalized Growth Plans  Identify skill gaps and receive customized strategies to elevate your career.
+✅ Tech & Innovation Mastery  Stay ahead by learning cutting-edge tools and industry trends.
+✅ Soft Skills Enhancement Boost leadership, communication, and problem-solving abilities.
+✅ Discover Hidden Talents Uncover strengths you never knew you had!
 
-By working with Dr. Green, clients gain clarity on skill gaps and develop strategies to overcome them. His personalized plans ensure that each individual achieves tangible improvements in their career prospects.
-
-Dr. Alex Green’s deep knowledge and commitment to his clients’ success make him an exceptional mentor. Engaging in skill counseling with him is an investment in your future, equipping you to excel in any field.
-          </p>
+Your Future Starts Now!
+With Dr. Nathan Carter’s expert guidance, you’ll gain the confidence and skills needed to excel in any industry. His commitment to personalized coaching and continuous learning makes him the perfect mentor for ambitious professionals. </p>
           <button
             className="mt-6 btn btn-primary flex items-center gap-2"
             onClick={() => (window.location.href = '/services')}
